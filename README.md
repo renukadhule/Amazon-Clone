@@ -1,1 +1,1 @@
-created Amazon clone using HTML, CSS, JavaScript
+created Amazon clone using a HTML, CSS, JavaScript
